@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Tigre</folder>
+	<filename>255.jpg</filename>
+	<path>C:\Users\HP\Documents\Tigre\255.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>834</width>
+		<height>980</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigre</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>88</xmin>
+			<ymin>150</ymin>
+			<xmax>756</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+</annotation>
