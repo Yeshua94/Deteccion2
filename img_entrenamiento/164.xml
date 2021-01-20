@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>164.jpg</filename>
+	<path>/home/yeshua/Escritorio/Deteccion2/images/164.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigrew</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>132</xmin>
+			<ymin>21</ymin>
+			<xmax>584</xmax>
+			<ymax>928</ymax>
+		</bndbox>
+	</object>
+</annotation>
