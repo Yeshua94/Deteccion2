@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>54.jpg</filename>
+	<path>/home/yeshua/Escritorio/Deteccion2/images/54.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1397</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Tigrew</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>633</xmin>
+			<ymin>15</ymin>
+			<xmax>1874</xmax>
+			<ymax>1321</ymax>
+		</bndbox>
+	</object>
+</annotation>
