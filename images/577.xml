@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>577.jpg</filename>
+	<path>/home/yeshua/Escritorio/Deteccion2/images/577.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Yoshi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>186</ymin>
+			<xmax>521</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>
