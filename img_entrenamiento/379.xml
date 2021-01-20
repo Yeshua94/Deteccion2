@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>379.jpg</filename>
+	<path>/home/yeshua/Escritorio/Deteccion2/images/379.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>425</width>
+		<height>425</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lobo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>31</ymin>
+			<xmax>370</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
